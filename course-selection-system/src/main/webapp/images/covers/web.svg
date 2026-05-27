@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50"/>
+      <stop offset="100%" style="stop-color:#1a252f"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#bg)" width="400" height="300"/>
+  <text x="200" y="120" font-family="Arial, sans-serif" font-size="48" fill="#e74c3c" text-anchor="middle">🌐</text>
+  <text x="200" y="170" font-family="Arial, sans-serif" font-size="24" fill="#fff" text-anchor="middle" font-weight="bold">Web前端开发</text>
+  <text x="200" y="200" font-family="Arial, sans-serif" font-size="12" fill="#888" text-anchor="middle">HTML · CSS · JavaScript</text>
+</svg>
